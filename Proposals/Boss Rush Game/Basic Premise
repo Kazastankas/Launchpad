@@ -1,0 +1,10 @@
+General idea for this game is to optimize the player experience around fighting and beating relatively intelligent bosses. Intelligent means that they don't
+always follow a repeated pattern - at the very least, they react actively to
+player actions in interesting ways.
+
+Need to figure out if it's more like a MMORPG (like WoW) or an ARPG
+(like Diablo), which changes the emphasis on reaction speed and smooth
+gameplay. Most of the mechanics are similar, but the former lends less well to
+balancing for solo play compared to the latter, so it'll likely be the latter.
+
+Will probably start with something 2D.
